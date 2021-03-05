@@ -65,6 +65,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Chamodya678.visitor-badge" />
 </p>
 
-|  ><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[  Chamodya ]                                                                               |
+|       [  Chamodya ]                                                                               |
