@@ -60,9 +60,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 <p align="center">
   <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/OfficialBawwa/https://githubcom/OfficialBawwa/OfficialBawwa.svg" />
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/Chamodya678/https://githubcom/Chamodya678/Chamodya678.svg" />
   </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=OfficialBawwa.visitor-badge" />
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Chamodya678.visitor-badge" />
 </p>
 
 
