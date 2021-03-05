@@ -50,6 +50,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
+<!-- Talking about you -->
+**Badges:**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamodya678" alt="chamodya678" /></a> </p>
 
 <!-- Your hits or visitors
