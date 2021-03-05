@@ -1,78 +1,69 @@
-<!-- Your title -->
-## Hi, I'm Chamodya👋 , A Developer from Sri Lanka 🇱🇰.
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+3772
+Fork on GitHub
+683
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+back to edit
 
+copy-markdown
 
-&nbsp;
+download markdown
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
+download backup
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+preview
+<h1 align="center">Hi 👋, I'm Chamodya</h1>
+<h3 align="center">A developer from Sri Lanka 🇱🇰</h3>
 
-- 👨🏽‍💻 I’m currently working on [All]
-- 🌱 I’m currently learning Python And HTML(CircleCI); 
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Still Student, and still Learning Phython😅;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodya678&label=Profile%20views&color=0e75b6&style=flat" alt="chamodya678" /> </p>
 
-**Languages and Tools:** 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamodya678" alt="chamodya678" /></a> </p>
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/Chamodya678/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Chamodya678&show_icons=true&hide_border=true" />
-  </a>
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+- 🔭 I’m currently working on **All**
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/OfficialBawwa/https://githubcom/OfficialBawwa/OfficialBawwa.svg" />
-  </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=OfficialBawwa.visitor-badge" />
-</p>
+- 🌱 I’m currently learning **Python**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Chamodya678?tab=repositories](https://github.com/Chamodya678?tab=repositories)
+
+- 💬 Ask me about **I am happy to help**
+
+- 📫 How to reach me **You Know That..Right?**
+
+- ⚡ Fun fact **I'm Still Student, and still Learning**
 
 
-# MOST USED LANGUAGES
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamodya678)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamodya678&show_icons=true&locale=en&layout=compact" alt="chamodya678" /></p>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamodya678&show_icons=true&locale=en" alt="chamodya678" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamodya678&" alt="chamodya678" /></p>
 
-
-
-
-Reach out to me 👓
-
-| <img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Chamodya ]**                                                                                |
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypalPaypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
