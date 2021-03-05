@@ -73,19 +73,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-# Follow me on
-
-<p align="left">
-<a href="https://t.me/Official_Bawwa" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/_r_a_v_i_y_a_/" target="blank"><img align="center" src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/PrasadaraRavidu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/ravbawwaofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
----
-
-
-Reach out to me 👓
-
 |  <a href="https://t.me/Official_Bawwa/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[  Chamodya ]                                                                               |
