@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Python (CircleCI); 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student, and still Learning Phython😅;
-- 📫 How to reach me: raviyatubelight@gmail.com;
+- 📫 How to reach me: You Know That..Right?
 
 **Languages and Tools:** 
 
