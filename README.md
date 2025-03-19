@@ -17,8 +17,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 👨🏽‍💻 I’m currently working on [All](https://github.com/Chamodya678);
-- 🌱 I’m currently learning Python 👀; 
+- 👨🏽‍💻 I’m currently working on [All](https://github.com/ChamodyaChiran?tab=repositories);
+- 🌱 I’m currently learning Java 👀; 
 - 💬 Ask me about anything, I am happy to help 😊;
 - ⚡️ Fun-Fact: I'm Still Student, and still Learning 😂;
 - 📫 How to reach me: You Know That..Right 🤔?
@@ -51,20 +51,3 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 <!-- Talking about you -->
-**Badges:**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamodya678" alt="chamodya678" /></a> </p>
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/Chamodya678/https://githubcom/Chamodya678/Chamodya678.svg" />
-  </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Chamodya678.visitor-badge" />
-</p>
-
-|  <img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       [  Chamodya ]                                                                               |
