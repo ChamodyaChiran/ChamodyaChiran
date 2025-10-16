@@ -23,7 +23,7 @@
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 
-- :credit_card: My full name is **Chamodya Chiran Madana**
+- :credit_card: My name is **Chamodya Chiran**
 - :school: I'm student at **University of Colombo**
 - :books: My major is **Information Technology**
 - :earth_asia: I'm living now in **Sri Lanka**
@@ -33,16 +33,16 @@
 - :ok_hand: I dig into the how, not just the why
 
 
-## Contribution Snake 
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M5aGZvc3d0aDQzbTRyZ2Q3dDZzMmY2dzczZXczdXV4enRiOWc3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzmzomJrpmygenBsiU/giphy.gif" width="50px" height="40px"> Contributions
 ![snake gif](https://github.com/ChamodyaChiran/ChamodyaChiran/blob/main/contribution.svg)
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="40px"> My Statistics
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaChiran&layout=compact&show_icon=true&theme=algolia" alt="ChamodyaChiran-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ChamodyaChiran&layout=compact&show_icon=true&theme=algolia" alt="ChamodyaChiran-stats"/>
 </div>
 
-<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
+## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="50px"> Connect Me Via
 <p>
   <a href="mailto:chamodyacmadana@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a
 
